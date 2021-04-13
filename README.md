@@ -1,3 +1,5 @@
+## THIS VERSION IS DEPRECATED, PLEASE GO TO https://github.com/jfnavarro/st_pipeline FOR THE MOST UPDATED VERSION 
+
 # Spatial Transcriptomics Pipeline
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
